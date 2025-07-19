@@ -1,16 +1,14 @@
-# socialmedia_app
+# minimal_social_media_app
 
-A new Flutter project.
+A clean and modern social media app built with **Flutter**. This project demonstrates a minimal social platform interface, featuring essential functionality such as user registration, login, public wall posting, and a simple sidebar navigation system.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔐 User Authentication (Login & Registration)
+- 📝 Public Wall Post Creation
+- 📋 Minimalist Sidebar Navigation
+- 📱 Mobile-first Responsive UI
+- 🌙 Dark Mode ready (optional)
+- 📦 Built with Flutter + Dart
